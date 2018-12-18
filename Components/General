@@ -1,0 +1,11 @@
+The hexapod walker consisted of 3 key physical components
+
+  1. Base
+  2. Upper Leg
+  3. Lower Leg
+
+The base was the backbone of the hexapod walker, where the majority of electrical components were conected to and the PCB connected to.
+
+Each leg for the hexapod walker considted of a upper leg and lower leg:
+  - the upper leg was in charge of the leg's horizontal motion
+  - the lower leg was in charge of the leg's vertical motion
