@@ -10,7 +10,7 @@ The body and legs of the robot were designed using AutoCAD online 3D modelling a
 Each leg of the robot consisted of two servos, one moving the entire leg parallel with the ground. The second servo controlled the vertical movement of the *fibula* (ie acted as the **knee** of the leg).  
 When combining movement of all legs, a **_tripod_** gait was implemented.
 
-![Image of Hexapod](Images/hexapod one.jpg)
+![Image of Hexapod](Images/hexapod 1.png)
 
 ![Image of Hexapod](Images/hexapod 2.png)
 
