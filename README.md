@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Hexapod-Walker
 
-You can use the [editor on GitHub](https://github.com/wshahbaz/Hexapod-Walker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This was my grade 11 Computer Engineering project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a hexapod-walker: a 6-legged autonomous walking robot.
 
-### Markdown
+The hexapod walker was created using 12 servos, and arduino, and two 9-volt batteries.  
+The body and legs of the robot were designed using AutoCAD online 3D modelling and were printed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Each leg of the robot consisted of two servos, one moving the entire leg parallel with the ground. The second servo controlled the vertical movement of the *fibula* (ie acted as the **knee** of the leg).  
+When combining movement of all legs, a **_tripod_** gait was implemented.
 
-```markdown
-Syntax highlighted code block
+![Image of Hexapod](Images/hexapod 1.png)
 
-# Header 1
-## Header 2
-### Header 3
+![Image of Hexapod](Images/hexapod 2.png)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wshahbaz/Hexapod-Walker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Any additional information about the hexapod walker can be found in the [report](https://github.com/wshahbaz/Hexapod-Walker/blob/master/Hexapod%20Walker%20Report.pdf)
